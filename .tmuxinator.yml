@@ -1,0 +1,10 @@
+name: trello
+root: ~/code/k2052/trello
+pre_window: loadfnm
+windows:
+  - npm:
+      layout: tiled
+      panes:
+        - yarn run dev
+        - yarn run test:watch
+        - echo "type commands here"
