@@ -13,7 +13,7 @@
     "kea-loaders": "^0.3.0",
     "kea-localstorage": "^1.0.2",
     "mongoose": "^5.13.20",
-    "next": "^12.1.0",
+    "next": "^13.5.4",
     "next-auth": "^4.20.1",
     "next-redux-wrapper": "^6.0.2",
     "postcss-nested": "^5.0.0",
@@ -22,7 +22,7 @@
     "react-redux": "^7.2.1",
     "redux": "^4.0.5",
     "reselect": "^4.0.0",
-    "styled-jsx-plugin-postcss": "^3.0.1",
+    "styled-jsx-plugin-postcss": "^4.0.1",
     "swr": "0.3.4"
   },
   "license": "ISC",
