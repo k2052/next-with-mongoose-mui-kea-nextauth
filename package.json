@@ -14,7 +14,7 @@
     "kea-localstorage": "^1.0.2",
     "mongoose": "^5.13.20",
     "next": "^14.2.10",
-    "next-auth": "^4.24.5",
+    "next-auth": "^4.24.10",
     "next-redux-wrapper": "^6.0.2",
     "postcss-nested": "^5.0.0",
     "react": "^16.13.1",
